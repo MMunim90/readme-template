@@ -160,5 +160,5 @@ http://www.google.com
 | Name | Email |
 | ----- | ------|
 | MMunim | mmunim9.9.01@gmail.com |
-| Apurbo | Write your email here |
-| MMunim | mmunim9.9.01@gmail.com |
+| Type your name here | Type your email here |
+| Type your name here | Type your email here|
